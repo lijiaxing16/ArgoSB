@@ -58,7 +58,7 @@ uuid=你的uuid vmpt=VPS可使用的端口 agn=固定域名 agk=ey开头的token
 
 容器NIX脚本：
 ```
-nix=y uuid=你的uuid vmpt=VPS可使用的端口 agn=固定域名 agk=ey开头的token bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)
+nix=y uuid=你的uuid vmpt=VPS可使用的端口 agn=固定域名 agk=ey开头的token bash <(curl -Ls https://raw.githubusercontent.com/lijiaxing16/ArgoSB/refs/heads/main/argosb.sh)
 ```
 
 
